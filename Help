@@ -1,0 +1,9 @@
+Welcome to the Circuit Manual!
+Circuit is an open source Discord Moderation and server Management bot designed to make managing a server that much easier.
+Circuit requires a JSON file with the title of m.json with the contents including your ID and bot token. This is used throughout
+the project and will be necessary for the bot to work. Any further questions can be handled in the support discord, linked below.
+Thank you for using Circuit!
+-Theraneatic
+
+Support Server:
+https://discord.io/therabots
